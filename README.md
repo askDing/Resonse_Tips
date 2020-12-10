@@ -4,6 +4,8 @@
 
 ## 写作工具推荐
 
+- [VNote](https://github.com/vnotex/vnote)
+
 - [Joplin](https://github.com/laurent22/joplin) 
 	- 全平台通用，windows,mac,linux端的写作神器，
 	- 甚至有还有命令行版，支持chrome和firefox插件，
